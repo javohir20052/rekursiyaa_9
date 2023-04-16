@@ -1,0 +1,15 @@
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\rekursiya_9.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\rekursiya_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\rekursiya_9.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\rekursiya_9.AssemblyInfo.cs
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\rekursiya_9.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\bin\Debug\net6.0\rekursiya_9.exe
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\bin\Debug\net6.0\rekursiya_9.deps.json
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\bin\Debug\net6.0\rekursiya_9.runtimeconfig.json
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\bin\Debug\net6.0\rekursiya_9.dll
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\bin\Debug\net6.0\rekursiya_9.pdb
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\rekursiya_9.dll
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\refint\rekursiya_9.dll
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\rekursiya_9.pdb
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\rekursiya_9.genruntimeconfig.cache
+C:\Users\1\OneDrive\Рабочий стол\rekursiya_9\obj\Debug\net6.0\ref\rekursiya_9.dll
